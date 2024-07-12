@@ -21,21 +21,21 @@ export const SobreMi = () => {
                     </p>
                     <div className="flex flex-wrap items-center gap-4">
                         <a
-                            href="#projects"
+                            href="https://github.com/ggalindo2022147"
                             className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-base font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
                             <GithubIcon className="mr-2 w-5 h-5" />
                             GitHub
                         </a>
                         <a
-                            href="#contact"
+                            href="#"
                             className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-base font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
                             <BriefcaseIcon className="mr-2 w-5 h-5" />
                             Computrabajo
                         </a>
                         <a
-                            href="#skills"
+                            href="#"
                             className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-base font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
                         >
                             <LinkedinIcon className="mr-2 w-5 h-5" />
