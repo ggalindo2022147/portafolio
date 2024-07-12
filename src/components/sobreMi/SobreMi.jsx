@@ -23,6 +23,7 @@ export const SobreMi = () => {
                         <a
                             href="https://github.com/ggalindo2022147"
                             className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-base font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50"
+                            target="_blank"    
                         >
                             <GithubIcon className="mr-2 w-5 h-5" />
                             GitHub
